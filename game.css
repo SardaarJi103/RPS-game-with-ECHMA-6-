@@ -1,0 +1,25 @@
+
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 6em;
+    font-family: Lucida;
+    text-transform: capitalize;
+    color: dodgerblue;
+}
+#btn{
+    background-color: aquamarine;
+    color: blue;
+    height: auto;
+    width: auto;
+    margin: auto;
+    border: 0px;
+    font-size: 2em;
+    font-family: Verdana;
+    padding: 20px;
+    cursor: pointer;
+    
+}
